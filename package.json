@@ -1,0 +1,23 @@
+{
+  "name": "@gitignore/cli",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Richard King <richrdkng@gmail.com> (www.richrdkng.com)",
+  "license": "ISC",
+  "main": "index.js",
+  "homepage": "https://github.com/node-gitignore/cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-gitignore/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/node-gitignore/cli/issues"
+  },
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
